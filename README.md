@@ -1,2 +1,2 @@
 # git-flow-test
-🐭 Ignore this repo, lil' sneaky!
+🐭 Ignore this repo, lil' sneaky! :O
